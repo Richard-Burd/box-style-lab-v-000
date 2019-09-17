@@ -37,10 +37,6 @@ img {
   background-color: #44cc66;
 }
 
-h4.amiable{
-  background: linear-gradient(to right, #1e572c, #44cc66);
-}
-
 h4.amiable:hover {
   background: linear-gradient(
     to right,
