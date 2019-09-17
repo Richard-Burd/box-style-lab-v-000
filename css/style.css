@@ -31,19 +31,16 @@ img {
 }
 
 .amiable {
-  border: 1px solid #22aa44;
   box-shadow:  -1px 1px #22aa44, -2px 2px #22aa44, -3px 3px #22aa44, -4px 4px #22aa44, -5px 5px #22aa44;
   background-color: #44cc66;
 }
 
 .indifferent {
-  border: 1px solid #b69118d0;
   background-color: #dddd22;
   box-shadow:  -1px 1px #b69118d0, -2px 2px #b69118d0, -3px 3px #b69118d0, -4px 4px #b69118d0, -5px 5px #b69118d0;
 }
 
 .dubious {
-  background-color: #dd4444;
   border: 1px solid #8f0707a3;
   box-shadow:  -1px 1px #8f0707a3, -2px 2px #8f0707a3, -3px 3px #8f0707a3, -4px 4px #8f0707a3, -5px 5px #8f0707a3;
 }
