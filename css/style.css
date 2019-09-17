@@ -37,27 +37,6 @@ img {
   background-color: #44cc66;
 }
 
-h4.amiable:hover {
-  background: linear-gradient(
-    to right,
-    #66ee88,
-    #118833
-  );
-}
-
-h4.indifferent {
-  background: linear-gradient(to right, #770, #aa0);
-}
-
-h4.dubious {
-  background: linear-gradient(
-    to right,
-    #700,
-    #a00
-  );
-}
-
-
 .indifferent {
   border: 1px solid #b69118d0;
   background-color: #dddd22;
